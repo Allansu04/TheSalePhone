@@ -15,10 +15,7 @@ header {
   height: 100px;
 }
 
-.headlist
-
-/*網頁表單超連結整個的DIV*/
-  {
+.headlist {
   font-size: 18px;
   position: fixed;
   top: 0px;
@@ -30,10 +27,9 @@ header {
 
 }
 
-#SALE
 
-/*中原大學的圖片*/
-  {
+
+#SALE {
   margin-top: 2.5px;
   height: 60px;
   position: absolute;
@@ -46,20 +42,14 @@ a {
   text-decoration: none;
 }
 
-.headlist table
-
-/*網頁表單清單表格*/
-  {
+.headlist table {
   position: absolute;
   left: 50%;
   top: 5px;
 }
 
 
-.headlist td
-
-/*設計表單超聯結的內容*/
-  {
+.headlist td {
   height: 50px;
   width: 150px;
   min-width: 100px;
@@ -67,10 +57,7 @@ a {
   background-color: rgb(3, 70, 70);
 }
 
-.headlist td:hover
-
-/*設計表單超聯結的內容*/
-  {
+.headlist td:hover {
   background-color: #383A3F;
   transition: 0.5s;
   border-radius: 30%;
@@ -78,10 +65,7 @@ a {
 
 
 
-.footer
-
-/*網業尾巴的設定*/
-  {
+.footer {
   font-size: 18px;
   width: 100%;
   height: 65px;

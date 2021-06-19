@@ -37,10 +37,18 @@ input {
   width: 100%;
 
 
+
+}
+
+.lp {
+  background-color: rgb(7, 56, 105);
+  width: 100%;
+  display: block;
+  margin: auto;
 }
 
 .lp img {
-  width: 1000px;
+  width: 100%;
   height: 500px;
   display: block;
   margin: auto;
@@ -66,4 +74,30 @@ p {
   font-size: 60px;
   margin-bottom: 30px;
   font-weight: 600;
+}
+
+.ps {
+  width: 100%;
+  margin: auto;
+  display: block;
+  font-size: 50px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  background-color: seagreen;
+}
+
+.psb {
+  background-color: rgb(3, 70, 70);
+  ;
+  width: 100%;
+  margin: auto;
+  display: block;
+}
+
+.bg {
+  background-color: rgb(3, 70, 70);
+  ;
+  width: 50%;
+  display: block;
+  margin: auto;
 }
